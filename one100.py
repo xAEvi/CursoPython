@@ -1,6 +1,2 @@
-
-contador = 100
-
-while contador > 0:
-    print(contador)
-    contador -= 1
+for numero in range(100):
+    print(numero+1)
